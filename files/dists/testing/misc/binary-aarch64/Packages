@@ -28,6 +28,51 @@ SHA512: 3c9d06eac153c93e368292c27619bd93cb9f9fff965b1008d865e7287f9da49f59def12d
 Homepage:
 Description: Libical is an Open Source implementation of the iCalendar protocols and protocol data units
 
+Package: libpulseaudio-dev
+Architecture: aarch64
+Version: 11.1-5
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 464
+Depends: libpulseaudio
+Filename: dists/testing/misc/binary-aarch64/libpulseaudio-dev_11.1-5_aarch64.deb
+Size: 64328
+MD5sum: 0850b55667742e494c6762bc93a774a3
+SHA1: e7da312b92849d8f27e8a95277efd25bb9eb7522
+SHA256: 152e3f7e4e5c935a20d35490d361b6b12db5fe1d99491b5131c98de9d86e9fa2
+SHA512: 49178c021111793e322a35c374bae1187379981b5120afb869289a767e24f79de50bb8658a8360ba4ddc69faa84718b9ee53a6fbc0ee6f8bd9a6c7ddc586004e
+Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
+Description: Development files for libpulseaudio
+
+Package: libpulseaudio
+Architecture: aarch64
+Version: 11.1-5
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1544
+Depends: libltdl, libsndfile, libandroid-glob, libsoxr
+Filename: dists/testing/misc/binary-aarch64/libpulseaudio_11.1-5_aarch64.deb
+Size: 328088
+MD5sum: 3ad92d70f9227e93bc35f244ef0206b9
+SHA1: 23c8263b8daa05ecf5e65aaaf25830fba77dd662
+SHA256: f78184f7b7fd3548f5355aa98f23cadba462bf048622ee47a63ddd7f6af6a7c1
+SHA512: 0829f7399e1551b652f7ff21a3f02b3e2f268961dbf1eee227016c8c332ea97ce633b8dabb08fb1338fabd27d8771e3a3daa9b33441f6644d8f329be7703d42d
+Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
+Description: A featureful, general-purpose sound server - shared libraries
+
+Package: pulseaudio
+Architecture: aarch64
+Version: 11.1-5
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1760
+Depends: libpulseaudio
+Filename: dists/testing/misc/binary-aarch64/pulseaudio_11.1-5_aarch64.deb
+Size: 216380
+MD5sum: a233914b8a35e2b754ede947687c2ec1
+SHA1: 96542e8d7f9fc7d081f7004f2903e593de19c067
+SHA256: ff68b7cad92310986147c47a1a54eacacc8cdcf64a6a7d9e6e5baa4c73413ff7
+SHA512: a5327d38ef74e7ae9ea28d5f5755da4377e39012abdef0b44bcfb09edb1d232f025e9b20ef2ccff12955515b1f145757a11a22e8dfe0e6c279f03c6a51cf55ac
+Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
+Description: A featureful, general-purpose sound server
+
 Package: tshark
 Architecture: aarch64
 Version: 2.4.2
