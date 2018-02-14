@@ -35,11 +35,11 @@ Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 464
 Depends: libpulseaudio
 Filename: dists/testing/misc/binary-aarch64/libpulseaudio-dev_11.1-5_aarch64.deb
-Size: 64280
-MD5sum: e6a80fa0c104e1d4bb5386d92393535a
-SHA1: 0d701cc90954dab2d8d734b80a206fed43e10b3e
-SHA256: 10acf62ce40af5eed82d7f9f40ad5542c67adeae3099b98d42339cc13984fd01
-SHA512: 9bc68634d2f88e620e06bf9e9b0a37019bc0276841456b4eb02516c590b3050561f436bd673b6e435d888fa0f9f347870268094101b5e3763e5f577793392ab0
+Size: 64300
+MD5sum: c2e6d15c28d438be4a7d9567ceb7666c
+SHA1: f686d4f85e36c43a852c896e34cc0a0fd88760c2
+SHA256: f2d1cb7a44e20aad303326a434abc17e3112f3827c4691605e012f07a9641add
+SHA512: 6e6e9cd940c97bb73f3c092bbac39b98560ade1c30fdf4e225efd07967430daaade2654125309b66fe972e3dd654ef8eb524bf0cdd77420660dd89d2d400f4e5
 Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
 Description: Development files for libpulseaudio
 
@@ -51,11 +51,11 @@ Installed-Size: 1560
 Depends: libltdl, libsndfile, libandroid-glob, libsoxr
 Conflicts: pulseaudio (<< 11.1-5)
 Filename: dists/testing/misc/binary-aarch64/libpulseaudio_11.1-5_aarch64.deb
-Size: 327256
-MD5sum: f306e3ebcbd48aac4b86a5e4c191a195
-SHA1: cfd7c12e056fe4b18db19f98b4d30ac60dec8553
-SHA256: a5867b034d939880e90c4d3fe9efcc0d56a1f4155e8bfbf4498ded90d029dbc8
-SHA512: c6536435ed9267f44de4de2fbf49dd5a66ee5efb8469a24dfc40cb28df3bb3ac99ed5ff8cd14ad6ff717bc50c7fb7e4f55a2771bf41986003cf681cca9fad3ff
+Size: 328724
+MD5sum: 8f2a77eaf28a99da032a54bdde7e514d
+SHA1: 77a02b5d816a94040f6633d4ee66c9b0ed4438e4
+SHA256: c4fd32f8f44390da94567e96ae8500f435dcd607bd4b15b9cb1618f0375eed20
+SHA512: 07d2ff33f5a76f43b9241df6b740c0669def0d2c3fe2a703427a4af21139f1911ca01b7746c7242881bd136646bae6a1b09e433509cf88d63bdd0804b64d955d
 Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
 Description: A featureful, general-purpose sound server - shared libraries
 
@@ -67,11 +67,11 @@ Installed-Size: 1760
 Depends: libpulseaudio
 Conflicts: libpulseaudio (<< 11.1-5)
 Filename: dists/testing/misc/binary-aarch64/pulseaudio_11.1-5_aarch64.deb
-Size: 216372
-MD5sum: 1721f2edbd5fba1fc5c89ba432da4170
-SHA1: 24347a7821baf4b2c13ed80b27b538b514095fd0
-SHA256: 9448ffc223a37211fda8ff8954c822387ad86ea504c89389e7b390d796a5c0a2
-SHA512: 15623b24bd76136abf5ed0e1717f01a27afa48b4850929f77e148752ef5e5460a1e1caba87424754b3c85c91c2a25d5311904365ea6099efa217b9c25f0edb1d
+Size: 216160
+MD5sum: cecd14501e1dc5a362b345d25f07f8db
+SHA1: 989a0a33fbc67b676bcbc9e861008d2046468996
+SHA256: eeec50cbb844d4a6a1bc706701f05933fd8d1650793603c003f4b98bac53b34d
+SHA512: 9ecf6c89e6124e8f3a03b9837ecd7e8372927fb67cdef8c790610f26d3c403af330c829ffe20ff5d423aa314806e5d00cdf122709b1c624dd6c488b067b5e14e
 Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
 Description: A featureful, general-purpose sound server
 
